@@ -1,0 +1,124 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+} 
+
+.reklama{
+  text-align: center;
+  background: #B36050;
+  color: white;
+  padding: 10px 0px;
+}
+
+.container__list__box{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 100px;
+  margin: 10px 100px;
+}
+
+.container__list__box__img{
+  text-align: center;
+  margin: 0 auto;
+  padding: 23px auto;
+}
+
+.dae-reklama_dae-photo{
+  text-align: center;
+  color: white;
+  padding: 10px 0px; 
+}
+
+.dae-reklama__about__shopping:hover{
+  background-color: white;
+  color: #B36050 ;
+  border: 2px #B36050 ;
+  transition-duration: 0.4s;
+}
+
+.dae-reklama{
+  background-color: #A9AE8D;
+}
+
+.dae-reklama__about button{
+  width: 128px;
+  height: 48px;
+  background-color: #B45F4D;
+  color: white;
+  border: none;
+}
+
+.dae-reklama__about{
+  padding: 15px 20px;
+}
+
+.prices{
+  display: flex;
+  justify-content: space-between;
+  margin: 100px 100px;
+}
+
+.pretty{
+  padding: 20px auto;
+  text-align: center;
+  color: #B36050;
+}
+
+.prices__conditioner{
+  color: #B36050;
+}
+
+.prices__shampoo{
+  color: #B36050
+}
+
+.prices__dedreamer{
+  color: #B36050
+}
+
+.rows{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 100px;
+}
+.shop-sets img{
+  width: 100%;
+  text-align: center;
+  color: white;
+  padding: 10px 0px;
+}
+
+.about-meeting{
+  background-color: #F1D3B9;
+  display: flex;
+  justify-content: space-between;
+  line-height: 25px;
+
+}
+
+.about-meeting__meet-dae-text__meet-dae{
+  text-align: center;
+}
+
+.about-meeting__meet-dae-text{
+  background-color: #fff;
+  margin: 100px 100px;
+  color: #B36050;
+}
+
+.footer__follow-link{
+  text-align: center;
+  margin: 10px auto;
+}
+.about-meeting__dae-photo{
+  background-color: #fff;
+  margin: 100px 100px;
+  color: #B36050;
+}
+
+.footer__image__photo{
+  width: 192px;
+  height: 130px;
+}
